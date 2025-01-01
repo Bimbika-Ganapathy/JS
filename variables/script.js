@@ -35,3 +35,8 @@ let x= null ;
 let z= Number ;
 
 
+let agee =3;
+let grace = 2;
+
+agee += grace
+console.log(agee) //5
